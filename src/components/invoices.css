@@ -1,0 +1,15 @@
+.background {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  gap: 24px;
+  color: white;
+  background: #2a2d31;
+}
+.bg {
+  background: #d3d3d3;
+  height: 100vh;
+}
+.invoiceContainer {
+  height: 50px;
+}

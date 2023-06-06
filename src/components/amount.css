@@ -1,0 +1,25 @@
+.rectangle {
+  display: flex;
+  align-items: center;
+  padding: 16px;
+  gap: 24px;
+  color: white;
+  background: #2a2d31;
+  height: 10rem;
+  border-radius: 0 0 20px 20px;
+}
+.black-bg {
+  position: absolute;
+  width: 95%;
+  height: 50px;
+  left: 27px;
+  top: 120px;
+  background: #24262a;
+}
+.text {
+  position: absolute;
+
+  height: 50px;
+  left: 27px;
+  top: 90px;
+}

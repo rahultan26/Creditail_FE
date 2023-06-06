@@ -1,0 +1,13 @@
+.color-white {
+  padding: 10px;
+  color: black;
+  text-align: center;
+  background-color: #efefef;
+}
+
+.color-blue {
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: #2760b6;
+}

@@ -1,0 +1,53 @@
+.cash_body{
+    background-color:rgba(24, 135, 72, 1);
+    text-align: center;
+    height: 100vh;
+    color: white;
+}
+
+.tick_circle_fade{
+    margin: 200px 0px 100px 0px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.25);
+    padding: 15px;
+    display: inline-block;
+}
+
+.tick_circle{
+    border-radius: 50%;
+    background-color: white;
+    padding: 10px;
+    display:inline-block;
+}
+
+.tick{
+    font-size: 80px;
+    color: rgba(24, 135, 72, 1);
+}
+
+.invoice_no{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+
+.amount{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.transaction_details{
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+.last_line{
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+.redirect{
+    position: fixed;
+    bottom: 10px;
+    left: 44%;
+    font-size: 15px;
+}
